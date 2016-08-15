@@ -15,4 +15,4 @@ user_input = gets.chomp
 abort("You didnt enter anything!\nExiting now.".red) if user_input.empty?
 
 # Return the reversed string
-puts "\nYour reversed string is ".yellow + user_input.reverse.yellow
+puts "\nYour reversed string is:\n ".yellow + user_input.reverse.yellow
