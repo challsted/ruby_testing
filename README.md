@@ -13,17 +13,17 @@ Goals
 Projects
 ========
 
-| Name | Description | Notes | Difficulty | Progress
-|:--|:--|:--|:--:|:---|
-|Reverse|Take a String given by the user and reverse it|**No Tests**|Easy|In Progress|
-|Pig Latin|Take a Word given by the user and convert it to Pig Latin|**No Tests**, *1*, *2*, *3*| Easy | In Progress|
-|CeaserCrypt|Take a input string or file and encrypt it with a simple Ceaser Crypt|Needs to be able to encrypt and decrypt|Intermediate?|Not Started|
-|Weather|Given a ZIP Code check Todays Weather|**No Tests**, Tested working with ZIP but not City ID|Easy|In Progress|
-|RPG Char Sheet|Create a character sheet for an RPG (will need to think of a way to allow for several styles of play here|I want this to work with DnD and GRUB right out of the box|Intermediate?|Not Started|
-|BattleShip|Just like oldschool battle ship!|1p and 2p options would be nice!|1p: Easy 2p: Hard|Not Started|
-|Hangman|Take input from the user to spell words in hangman style!||Intermediate|Not Started|
-|Black Jack|A game of 21 Dealer vs User||Easy|Not Started|
-|Ruby GRIP|A tiny webserver that displays a markdown file in HTML on your local system|Needs to support github flavored markdown, I would like to publish this as gem once complete|Intermediate|Not Started|
+| Name | Description | Notes | Expected Difficult | Actual Difficulty  | Progress
+|:--|:--|:--|:--:|:--:|:---|
+| Reverse | Take a String given by the user and reverse it | **No Tests** | Easy | Easy |In Progress|
+| Pig Latin | Take a Word given by the user and convert it to Pig Latin | **No Tests**, *1*, *2*, *3*| Easy | Easy | In Progress |
+| CeaserCrypt | Take a input string or file and encrypt it with a simple Ceaser Crypt | Needs to be able to encrypt and decrypt | Intermediate? | Not Started | Not Started |
+| Weather | Given a ZIP Code check Todays Weather|**No Tests**, Tested working with ZIP but not City ID | Easy | Not Started | In Progress |
+| RPG Char Sheet| Create a character sheet for an RPG (will need to think of a way to allow for several styles of play here | I want this to work with DnD and GRUB right out of the box | Intermediate? | Not Started | Not Started |
+| BattleShip | Just like oldschool battle ship!|1p and 2p options would be nice! | Intermediate | Not Started | Not Started |
+| Hangman | Take input from the user to spell words in hangman style! | | Intermediate | Not Started | Not Started |
+| Black Jack | A game of 21 Dealer(Computer) vs User | | Easy| Not Started | Not Started |
+| [Video Alarm Clock](https://trello.com/b/Q65rSr2s/challsted-video-alarm-clock) | Alarm Clock that opens a link (video link) when the time is hit|YouTube API needs to be used where possible | Intermediate?| Not Started | Not Started |
 
 
 FootNotes
