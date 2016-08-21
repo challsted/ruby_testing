@@ -2,17 +2,24 @@
 
 # This program takes a string from the user and reverses it
 
-require 'colorize' # Allows the use of colorized text to be printed to the screen
-# Program output           = Red
-# Output from User's Input = Yellow
-# User Input               = Terminal Default
+class Reverse_String
 
-# Request and read the user input
-puts "\nPlease give me a string, I will then reverse it for you\n".red
-user_input = gets.chomp
+  def initialize()
+    @user_input = gets.chomp.reverse
+  end
 
-# Complain if the user didnt give any input
-abort("You didnt enter anything!\nExiting now.".red) if user_input.empty?
+  attr_writer :user_input
 
-# Return the reversed string
-puts "\nYour reversed string is:\n ".yellow + user_input.reverse.yellow
+  def reverse()
+    return @user_input
+  end
+
+end
+
+puts "\nPlease give me a string, I will then reverse it for you\n"
+# Create a new Reverse object, take the user input,
+#   and either exit if no input or reverse it
+start = Reverse_String.new()
+start.reverse()
+abort("You didnt enter anything!\nExiting now.") if start.reverse.empty?
+puts "\nYour reversed string is:\n " + start.reverse
