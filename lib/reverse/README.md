@@ -1,18 +1,13 @@
-PROJECT NAME
-============
+Reverse
+=======
 
-Generic README file for all projects until I actually work on them. 
-
+Very simple "take a word and reverse it" this was my first project in this repo and was by far the simplest.
 
 Notes
 =====
 
-1. Ordered List Notes
-  * Sub List (unordered)
-
-Extras
-=====
-
-* Screenshots/GIFs?
-* Credit to others?
-* Kanban Boards?
+1. Tests in progress
+  * Still learning RSpec and a few bugs need to be worked out in the code before I think i can get it working
+2. Running the script then passing it a string will return the reversed results
+3. [bug] Currently does not allow for passing the script a string directly, this is preventing my tests from working at the moment as I dont know how to progress forward yet (need more time)
+4. [Learning Point] This is my first time outside of tutorials playing with OOP
