@@ -11,7 +11,7 @@ Notes
 1. Allow user to hit keys on keyboard and game should respond
 2. Should read a random word out of a dictionary (not sure how to do this yet)
 
-Planned Feathers
+Planned Features
 ===
 1. Should allow for multiple difficulties
   * Easy would have a few letters already on the screen
