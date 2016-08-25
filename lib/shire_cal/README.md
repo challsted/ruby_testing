@@ -1,18 +1,9 @@
-PROJECT NAME
-============
+Shire Calendar
+==============
 
-Generic README file for all projects until I actually work on them. 
-
+JRR Tolken invented a [Shire Calendar](https://en.wikipedia.org/wiki/Middle-earth_calendar) this will be a Ruby/CLI tool similar to the Linux Cal tool that instead prints the Shire Calendar.
 
 Notes
 =====
 
-1. Ordered List Notes
-  * Sub List (unordered)
-
-Extras
-=====
-
-* Screenshots/GIFs?
-* Credit to others?
-* Kanban Boards?
+1. This will be something similar to the Linux "[cal](http://man7.org/linux/man-pages/man1/cal.1.html)" tool
