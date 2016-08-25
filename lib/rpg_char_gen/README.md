@@ -1,18 +1,17 @@
-PROJECT NAME
-============
+RPG Character Generator
+===
 
-Generic README file for all projects until I actually work on them. 
-
+Generate a Random "Character Sheet" for a specific system of RPG, currently planning on building for DnD 3.5, 5.X and GRUB
 
 Notes
-=====
+===
 
-1. Ordered List Notes
-  * Sub List (unordered)
+1. Needs to allow for input flags to specify which system
+2. Generate a "Random" character for the system provided
 
-Extras
-=====
+Planned Features
+===
 
-* Screenshots/GIFs?
-* Credit to others?
-* Kanban Boards?
+1. Allow exporting of a character to a PDF in some standard format (like GRUB)
+2. Default export to a text document that could be easily edited or printed
+  * This could then be converted to PDF also...
