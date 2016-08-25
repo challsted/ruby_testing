@@ -12,6 +12,7 @@ Planned Features
 ===
 
 1. Look though the YouTube Developers site and see if its possible to do something like './alarm.rb AleStorm' and it load up the first video from the search results of "AleStorm" when the time is hit.
+  * [Found it here](https://developers.google.com/youtube/v3/code_samples/ruby#search_by_keyword)
 
 Extras
 ===
