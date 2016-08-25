@@ -12,8 +12,16 @@ Notes
 
 Lessions Learned
 ===
+
 1. This is my first time outside of tutorials playing with OOP
+
+Planned Features
+===
+
+1. Pass a string directly to the script instead of being prompted for a string
 
 Bugs
 ===
-1. Currently does not allow for passing the script a string directly, this is preventing my tests from working at the moment as I dont know how to progress forward yet (need more time)
+
+1. Currently does not allow for passing the script a string directly
+  * This is preventing my tests from working at the moment as I dont know how to progress forward yet (need more time)

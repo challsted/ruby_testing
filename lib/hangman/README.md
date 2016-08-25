@@ -8,8 +8,9 @@ Accepts input from the keyboard
 Notes
 ===
 
-1. Allow user to hit keys on keyboard and game should respond
-2. Should read a random word out of a dictionary (not sure how to do this yet)
+1. This project is not yet started
+2. Allow user to hit keys on keyboard and game should respond
+3. Should read a random word out of a dictionary (not sure how to do this yet)
 
 Planned Features
 ===

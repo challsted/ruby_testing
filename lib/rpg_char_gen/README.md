@@ -6,8 +6,9 @@ Generate a Random "Character Sheet" for a specific system of RPG, currently plan
 Notes
 ===
 
-1. Needs to allow for input flags to specify which system
-2. Generate a "Random" character for the system provided
+1. This project is not yet started
+2. Needs to allow for input flags to specify which system
+3. Generate a "Random" character for the system provided
 
 Planned Features
 ===

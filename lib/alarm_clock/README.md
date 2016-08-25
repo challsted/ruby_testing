@@ -11,7 +11,7 @@ Notes
 Planned Features
 ===
 
-1. [Planned Feature] Look though the YouTube Developers site and see if its possible to do something like './alarm.rb AleStorm' and it load up the first video from the search results of "AleStorm" when the time is hit.
+1. Look though the YouTube Developers site and see if its possible to do something like './alarm.rb AleStorm' and it load up the first video from the search results of "AleStorm" when the time is hit.
 
 Extras
 ===
