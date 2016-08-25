@@ -1,18 +1,9 @@
-PROJECT NAME
+Black Jack
 ============
 
-Generic README file for all projects until I actually work on them. 
-
+Just a simple game of blackjack (21), hit or stay based on the value of your cards
 
 Notes
 =====
 
-1. Ordered List Notes
-  * Sub List (unordered)
-
-Extras
-=====
-
-* Screenshots/GIFs?
-* Credit to others?
-* Kanban Boards?
+1. Play against the computer (dealer) in a Vegas style Black Jack game
